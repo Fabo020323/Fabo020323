@@ -140,8 +140,6 @@ Custom text file compression algorithm achieving **70% average compression**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabo020323&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fabo020323&theme=radical&hide_border=true)](https://github.com/Fabo020323)
 
 </div>
