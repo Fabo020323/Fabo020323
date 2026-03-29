@@ -144,8 +144,6 @@ Custom text file compression algorithm achieving **70% average compression**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fabo020323&theme=radical&hide_border=true)](https://github.com/Fabo020323)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabo020323&theme=radical&hide_border=true)
-
 </div>
 
 ---
