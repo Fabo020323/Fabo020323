@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Fabián Reyes Montero
+# 👋 Hi, I'm Fabian Reyes Montero
 
 ### 💻 Computer Engineer | Full-Stack Developer | Backend Specialist
 
