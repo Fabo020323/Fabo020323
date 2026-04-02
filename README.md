@@ -1,35 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Fabian Reyes Montero
+# 👋 Hola, soy Fabián Reyes Montero
 
-### 💻 Computer Engineer | Full-Stack Developer | Backend Specialist
+### 💻 Ingeniero Informático | Desarrollador Full-Stack | Especialista en Backend
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fabo020323.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fabo020323.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabian--reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-reyes-73b8693ba/)
 [![Email](https://img.shields.io/badge/Email-faboale020323%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faboale020323@gmail.com)
 
-📍 Havana, Cuba | 🌐 Open to Remote Opportunities
+📍 La Habana, Cuba | 🌐 Abierto a Oportunidades Remotas | 🇪🇸 Español (Nativo) | 🇬🇧 Inglés (B1)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mí
 
-I'm a **Computer Engineer** specialized in **backend development** with experience in building scalable web applications and AI-powered solutions. I've led development teams, delivered production systems processing +10,000 monthly transactions, and achieved a perfect 5.0/5.0 grade on my AI thesis project.
+Soy **Ingeniero Informático** especializado en **desarrollo backend** con más de **2 años de experiencia** construyendo aplicaciones web escalables y soluciones potenciadas por IA. He liderado equipos de desarrollo, entregado sistemas en producción que procesan +10,000 transacciones mensuales, y logré una calificación perfecta de 5.0/5.0 en mi proyecto de tesis de IA.
 
-- 🔭 **Currently working on:** AI-powered tools and learning advanced frontend technologies
-- 🌱 **Learning:** React, Next.js, advanced ML model deployment
-- 👨‍💼 **Experience:** Project Manager Junior & Full-Stack Developer
-- 🎓 **Education:** Computer Engineering (GPA: 4.05/5.0) - CUJAE, Cuba
-- 🏆 **Recognition:** Outstanding Integral Student of Faculty
-- 💡 **Interests:** Backend systems, AI/ML integration, SaaS platforms, social impact tech
+- 🔭 **Actualmente trabajando en:** Herramientas potenciadas por IA y aprendiendo tecnologías frontend avanzadas
+- 🌱 **Aprendiendo:** React, Next.js, despliegue avanzado de modelos ML
+- 👨‍💼 **Experiencia:** Project Manager Junior y Desarrollador Full-Stack
+- 🎓 **Formación:** Ingeniería Informática (Promedio: 4.05/5.0) - CUJAE, Cuba
+- 🏆 **Reconocimiento:** Alumno Integral de Facultad
+- 💡 **Intereses:** Sistemas backend, integración de IA/ML, plataformas SaaS, tecnología de impacto social
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
-### **Languages**
+### **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +37,7 @@ I'm a **Computer Engineer** specialized in **backend development** with experien
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### **Backend Frameworks**
+### **Frameworks Backend**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -49,13 +49,14 @@ I'm a **Computer Engineer** specialized in **backend development** with experien
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### **Databases**
+### **Bases de Datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **AI/ML & Tools**
+### **IA/ML & Herramientas**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,80 +64,98 @@ I'm a **Computer Engineer** specialized in **backend development** with experien
 
 ---
 
-## 💼 Professional Experience Highlights
+## 💼 Experiencia Profesional Destacada
 
-### 🏢 **Project Manager Junior & Backend Developer** @ Medialityc
-*International Tourism Platform (Cancun, Mexico) - Oct 2025 - Feb 2026*
+### 🏢 **Project Manager Junior & Desarrollador Backend** @ Medialityc
+*Plataforma Turística Internacional (Cancún, México) - Oct 2025 - Feb 2026*
 
-- Led team of 4 developers using **Scrum** methodology (12 sprints)
-- Managed **40+ pull requests** ensuring code quality
-- Developed **User Management**, **Admin Dashboard**, and **Billing System**
-- Integrated **Amadeus API** for real-time flight booking
-- **Tech Stack:** C#, .NET Core, ASP.NET, PostgreSQL, Next.js (frontend team)
-- 🔗 [Live Project](https://dev.dev.suntravelsonline.com/es)
+- Lideré equipo de 4 desarrolladores usando metodología **Scrum** (12 sprints)
+- Gestioné **40+ pull requests** asegurando calidad del código
+- Desarrollé **Gestión de Usuarios**, **Panel Administrativo** y **Sistema de Facturación**
+- Integré **Amadeus API** para reservas de vuelos en tiempo real
+- **Stack Tecnológico:** C#, .NET Core, ASP.NET, PostgreSQL, Next.js (equipo frontend)
+- 🔗 [Proyecto en Vivo](https://dev.dev.suntravelsonline.com/es)
 
-### 📦 **Full-Stack Developer** @ Seasky (Remote - Miami, USA)
-*Package Delivery Management System - Aug 2024 - Jun 2025*
+### 📦 **Desarrollador Full-Stack** @ Seasky (Remoto - Miami, USA)
+*Sistema de Gestión de Paquetería - Ago 2024 - Jun 2025*
 
-- Developed system processing **+10,000 monthly orders** for **30+ branches**
-- Built complete logistics module (pallets, containers, distribution)
-- Implemented **payment gateway integrations** and authentication system
-- **Tech Stack:** Python, Django, PostgreSQL, JavaScript
+- Desarrollé sistema procesando **+10,000 órdenes mensuales** para **30+ sucursales**
+- Construí módulo completo de logística (pallets, contenedores, distribución)
+- Implementé **integraciones con pasarelas de pago** y sistema de autenticación
+- **Stack Tecnológico:** Python, Django, PostgreSQL, JavaScript
+
+### 👨‍🏫 **Profesor de Introducción a la Programación** @ CUJAE
+*Ago 2024 - Ene 2025 (6 meses)*
+
+- Impartí curso de programación en lenguaje C a **60 estudiantes**
+- Diseñé material didáctico y ejercicios prácticos
+- Asesoré en resolución de problemas algorítmicos
 
 ---
 
-## 🎓 Featured Projects
+## 🎓 Proyectos Destacados
 
-### 🤖 **OCR System with Deep Learning** (Thesis - Grade: 5.0/5.0)
+### 🤖 **Sistema OCR con Deep Learning** (Tesis - Calificación: 5.0/5.0)
 [![Repo](https://img.shields.io/badge/Repo-Tesis-181717?style=for-the-badge&logo=github)](https://github.com/Fabo020323/Tesis)
 
-Advanced OCR system for extracting text from social media images using **PyTorch** and **GotOCR 2.0**
-- **92% accuracy** on low-quality images
-- **35% faster** processing through GPU optimization
-- REST API with **FastAPI** for production deployment
-- Processed **5,000+ images** dataset
+Sistema avanzado de OCR para extracción de texto de imágenes de redes sociales usando **PyTorch** y **GotOCR 2.0**
+- **92% de precisión** en imágenes de baja calidad
+- **35% más rápido** mediante optimización con GPU
+- API REST con **FastAPI** para despliegue en producción
+- Procesé dataset de **+5,000 imágenes**
 
 **Tech:** Python, PyTorch, FastAPI, OpenCV, NumPy
 
 ---
 
-### 📚 **Agentes - Library Management API**
+### 📚 **Agentes - API de Gestión Bibliotecaria**
 [![Repo](https://img.shields.io/badge/Repo-Agentes-181717?style=for-the-badge&logo=github)](https://github.com/Fabo020323/Agentes)
 
-Complete REST API for university library administration
-- Document management with ISBN, authors, categories
-- Loan system with notifications and due dates
-- JWT authentication with role-based permissions
-- Swagger/OpenAPI documentation
+API REST completa para administración de biblioteca universitaria
+- Gestión de documentos con ISBN, autores, categorías
+- Sistema de préstamos con notificaciones y fechas de vencimiento
+- Autenticación JWT con permisos basados en roles
+- Documentación Swagger/OpenAPI
 
 **Tech:** Java 22, Spring Boot, MongoDB, Spring Security, JWT
 
 ---
 
-### 🩸 **DonaVida - Blood Donation Platform**
+### 🩸 **DonaVida - Plataforma de Donación de Sangre**
 [![Repo](https://img.shields.io/badge/Repo-DonaVida-181717?style=for-the-badge&logo=github)](https://github.com/medialityc/donavida)
 
-Humanitarian platform connecting blood donors with recipients
-- **Core backend development** (my role)
-- Real-time chat with **WebSockets**
-- Geolocation and maps integration
-- Request management with priority levels
+Plataforma humanitaria conectando donantes de sangre con receptores
+- **Desarrollo core del backend** (mi rol)
+- Chat en tiempo real con **WebSockets**
+- Integración de geolocalización y mapas
+- Gestión de solicitudes con niveles de prioridad
 
 **Tech:** Node.js, Express, GraphQL, MongoDB, Socket.io
 
 ---
 
-### 🗜️ **Compress77** (Award: Outstanding)
-Custom text file compression algorithm achieving **70% average compression**
-- Binary tree + graph data structures
-- JavaFX GUI interface
-- **Awarded** at Faculty Scientific Conference
+### 🗜️ **Compress77** (Reconocimiento: Destacado)
+Algoritmo personalizado de compresión de archivos de texto logrando **70% de compresión promedio**
+- Estructuras de datos: árbol binario + grafo
+- Interfaz GUI con JavaFX
+- **Premiado** en Jornada Científica de la Facultad
 
-**Tech:** Java, JavaFX, Custom Algorithms
+**Tech:** Java, JavaFX, Algoritmos Personalizados
 
 ---
 
-## 📊 GitHub Stats
+### 🖥️ **ArchiGenius** (Reconocimiento: Relevante)
+Herramienta didáctica para enseñanza de Arquitectura de Computadoras
+- Simulaciones visuales de componentes de hardware
+- Módulos interactivos de ciclos de instrucción
+- Utilizada por **+100 estudiantes**
+- **Premiado** en Jornada Científica de la Facultad
+
+**Tech:** Java, JavaFX, Patrones de Diseño MVC
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -146,47 +165,63 @@ Custom text file compression algorithm achieving **70% average compression**
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Logros & Reconocimientos
 
-- 🎓 **Outstanding Integral Student** of Faculty - CUJAE
-- 🏅 **Perfect 5.0/5.0** on AI Thesis Project
-- 🥇 **"Outstanding" Award** - Compress77 (Scientific Conference)
-- 🥈 **"Relevant" Award** - ArchiGenius (Scientific Conference)
-- 👨‍🏫 **Professor** of Introduction to Programming (60 students)
-- 🎮 **Global Game Jam 2022** Participant (Game Developer)
+- 🎓 **Alumno Integral** de la Facultad - CUJAE
+- 🏅 **Calificación perfecta 5.0/5.0** en Proyecto de Tesis de IA
+- 🥇 **Premio "Destacado"** - Compress77 (Jornada Científica)
+- 🥈 **Premio "Relevante"** - ArchiGenius (Jornada Científica)
+- 👨‍🏫 **Profesor** de Introducción a la Programación (60 estudiantes)
+- 📚 **Alumno Ayudante** de Matemática Discreta y Computacional
+- 🎮 **Global Game Jam 2022** - Desarrollador del juego "Praedium"
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Enfoque Actual
 
 ```python
 class FabianReyes:
     def __init__(self):
-        self.role = "Backend Developer"
-        self.learning = ["React", "Next.js", "Advanced ML Deployment"]
-        self.interests = [
-            "Backend Systems Architecture",
-            "AI/ML Integration in Production",
-            "SaaS Platform Development",
-            "Social Impact Technology"
+        self.rol = "Desarrollador Backend"
+        self.experiencia = "+2 años en desarrollo full-stack"
+        self.aprendiendo = ["React", "Next.js", "Despliegue Avanzado de ML"]
+        self.intereses = [
+            "Arquitectura de Sistemas Backend",
+            "Integración de IA/ML en Producción",
+            "Desarrollo de Plataformas SaaS",
+            "Tecnología de Impacto Social"
         ]
-        self.looking_for = "Remote opportunities in innovative tech companies"
+        self.idiomas = {
+            "español": "Nativo",
+            "inglés": "B1 - Lectura técnica avanzada"
+        }
+        self.buscando = "Oportunidades remotas en empresas tecnológicas innovadoras"
     
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+    def saludar(self):
+        print("¡Gracias por visitar mi perfil! Construyamos algo increíble juntos 🚀")
 
-me = FabianReyes()
-me.say_hi()
-📫 Let's Connect!
-I'm always open to interesting conversations and collaboration opportunities!
+yo = FabianReyes()
+yo.saludar()
+```
 
-💼 LinkedIn: fabian-reyes-73b8693ba
-🌐 Portfolio: fabo020323.github.io
-📧 Email: faboale020323@gmail.com
-📍 Location: Havana, Cuba (Open to Remote Work)
+---
+
+## 📫 ¡Conectemos!
+
+¡Siempre estoy abierto a conversaciones interesantes y oportunidades de colaboración!
+
+💼 **LinkedIn:** [fabian-reyes-73b8693ba](https://www.linkedin.com/in/fabian-reyes-73b8693ba/)  
+🌐 **Portfolio:** [fabo020323.github.io](https://fabo020323.github.io/)  
+📧 **Email:** faboale020323@gmail.com  
+📍 **Ubicación:** La Habana, Cuba (Abierto a Trabajo Remoto)  
+🗣️ **Idiomas:** Español (Nativo), Inglés (B1)
+
+---
+
 <div align="center">
-💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+💡 *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Fabo020323&color=blueviolet&style=for-the-badge)
 
-</div> ```
-═══════════════════════════════════════════════════════════
+</div>
